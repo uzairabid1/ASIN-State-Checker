@@ -1,0 +1,50 @@
+Alabama,35004
+Alaska,99501
+Arizona,85001
+Arkansas,71601
+California,90001
+Colorado,80001
+Connecticut,06001
+Delaware,19701
+Florida,32003
+Georgia,30002
+Hawaii,96701
+Idaho,83201
+Illinois,62999
+Indiana,46001
+Iowa,50001
+Kansas,66002
+Kentucky,40003
+Louisiana,70001
+Maine,03901
+Maryland,20588
+Massachusetts,01001
+Michigan,48001
+Minnesota,55001
+Mississippi,38601
+Missouri,63001
+Montana,59001
+Nebraska,68001
+Nevada,88901
+New Hampshire,03031
+New Jersey,07001
+New Mexico,87001
+New York,00501
+North Carilona,27006
+North Dakota,58001
+Ohio,43001
+Oklahoma,73001
+Oregon,97001
+Pennsylvania,15001
+Rhode Island,02801
+South Carolina,29001
+South Dakota,57001
+Tennessee,37010
+Texas,73301
+Utah,84001
+Vermont,05001
+Virginia,20101
+Washington,98001
+West Virginia,24701
+Wisconsin,53001
+Wyoming,82001
